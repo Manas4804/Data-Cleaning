@@ -207,6 +207,9 @@ from layoffs_staging2;
 alter table layoffs_staging2
 drop column row_num;
 
+select *
+from layoffs_staging2;
+
 
 
 
